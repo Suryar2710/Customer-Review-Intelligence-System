@@ -4,19 +4,19 @@ An AI-powered system that analyzes Amazon headphone reviews to extract insights,
 
 ---
 
-## 🚀 Features
+## Features
 
-- 📊 Brand-level analytics (ratings, sentiment, aspects)
-- 📈 Interactive dashboard with charts (Recharts)
-- 🤖 AI Chat using RAG + LLaMA (via Ollama)
-- 🏷️ Aspect-based sentiment analysis (battery, sound, comfort, etc.)
-- 🔍 Competitor comparison insights
-- 🧠 Business recommendations from user reviews
-- 🎯 Brand-specific dropdown filtering
+- Brand-level analytics (ratings, sentiment, aspects)
+- Interactive dashboard with charts (Recharts)
+- AI Chat using RAG + LLaMA (via Ollama)
+- Aspect-based sentiment analysis (battery, sound, comfort, etc.)
+- Competitor comparison insights
+- Business recommendations from user reviews
+- Brand-specific dropdown filtering
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Backend
 - FastAPI
