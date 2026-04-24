@@ -188,7 +188,7 @@ http://localhost:3000
 
 
 ## Future Improvements
-Cloud deployment (Vercel and Render)
-Replace Ollama with hosted LLM
-Real-time streaming responses
-UI upgrade
+- Cloud deployment (Vercel and Render)
+- Replace Ollama with hosted LLM
+- Real-time streaming responses
+- Adding other categories for this review system
