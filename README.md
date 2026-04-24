@@ -179,14 +179,15 @@ Frontend runs at:
 http://localhost:3000
 ``` 
 
-##Use Cases
+## Use Cases
+
 Product research
 Market analysis
 Competitive benchmarking
 Customer experience insights
 
 
-##Future Improvements
+## Future Improvements
 Cloud deployment (Vercel and Render)
 Replace Ollama with hosted LLM
 Real-time streaming responses
