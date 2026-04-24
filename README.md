@@ -181,10 +181,10 @@ http://localhost:3000
 
 ## Use Cases
 
-Product research
-Market analysis
-Competitive benchmarking
-Customer experience insights
+- Product research
+- Market analysis
+- Competitive benchmarking
+- Customer experience insights
 
 
 ## Future Improvements
